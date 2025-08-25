@@ -1,0 +1,7 @@
+ffmpeg
+rubberband
+mediapipe
+numpy
+opencv-python
+pyaudio
+pydub
