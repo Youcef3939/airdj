@@ -25,18 +25,21 @@ Air DJ 3.0 is an **interactive Python application** that lets you mix your favor
 ```bash
 git clone https://github.com/YourUsername/AirDJ.git
 cd AirDJ
-
+```
 
 2. **install dependencies**
+```
 pip install -r requirements.txt
+```
 
+4. **Place your .mp3 file in the project folder and rename it to song.mp3 (or change the FILENAME variable in main.py)**
 
-3. **Place your .mp3 file in the project folder and rename it to song.mp3 (or change the FILENAME variable in main.py)**
-
-4. **run the app**
+5. **run the app**
+```
 python main.py
+```
 
-5. **Use your hands to control the song**
+7. **Use your hands to control the song**
 
 Right-hand thumb ↔ index → Speed
 Left-hand thumb ↔ index → Pitch
@@ -62,5 +65,3 @@ Tested on Windows, should work on other platforms with minimal adjustments
 
 💡 License
 This project is open-source, feel free to fork, contribute, or remix!
-
-Made with love by youcef chalbi
